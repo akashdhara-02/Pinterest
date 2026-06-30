@@ -6,7 +6,7 @@ import Signup from './pages/Signup';
 import Login from "./pages/Login";
 import Home from "./pages/Home";
 import About from "./pages/About"
-import Profile from './pages/profile';
+import Profile from './pages/Profile';
 import Dashboard from "./pages/Dashboard"
 import Notifications from "./pages/Notifications";
 import Settings from "./pages/Settings";
